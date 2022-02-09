@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## - 📫 How to reach me:
-Linkedin : <a href="https://www.linkedin.com/in/rutwik-baheti-7094b91a9/">linkedin.com/in/rutwik-baheti-7094b91a9/</a>
+Linkedin : <a href="https://www.linkedin.com/in/rutwik-baheti-7094b91a9/">linkedin.com/in/rutwik-baheti-7094b91a9/</a><br>
 Twitter : <a href="https://twitter.com/rutwikbaheti">twitter.com/rutwikbaheti</a>
